@@ -1,0 +1,4 @@
+﻿  STORAGE.cpp
+C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\STORAGE\STORAGE.cpp(12,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char *'
+     Creating library C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\\Game\STORAGE.lib and object C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\\Game\STORAGE.exp
+  STORAGE.vcxproj -> C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\\Game\STORAGE.dll

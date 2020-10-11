@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  XINPUT.cpp
+C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\XINPUT\XINPUT.cpp(13,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'XINPUT_STATE *'
+C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\XINPUT\XINPUT.cpp(20,10): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'XINPUT_VIBRATION'
+  Generating Code...
+     Creating library C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\\Game\XINPUT.lib and object C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\\Game\XINPUT.exp
+  XINPUT.vcxproj -> C:\Users\Tyler Jaacks\Desktop\ex360e-Reloaded\old\\Game\XINPUT.dll

@@ -1,0 +1,12 @@
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\bin\Debug\Ex360E.exe
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\bin\Debug\Ex360E.pdb
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\bin\Debug\X360.dll
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\bin\Debug\X360.xml
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.csprojAssemblyReference.cache
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.Form1.resources
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.Properties.Resources.resources
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.csproj.GenerateResource.cache
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.csproj.CopyComplete
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.exe
+C:\Users\Tyler Jaacks\Desktop\Ex360EReloaded\ex360e\Ex360E\obj\x86\Debug\Ex360E.pdb
